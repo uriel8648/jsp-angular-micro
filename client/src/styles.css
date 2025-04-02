@@ -1,1 +1,21 @@
+body {
+  font-family: Arial, sans-serif; /* Set a clean font */
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa; /* Light background for the app */
+}
+
+h1, h2, h3 {
+  color: #333; /* Dark text for headings */
+}
+
+a {
+  color: #007bff; /* Link color */
+  text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+
 /* You can add global styles to this file, and also import other style files */
